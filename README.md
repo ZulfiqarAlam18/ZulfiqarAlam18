@@ -1,98 +1,98 @@
-<!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Zulfiqar%20Alam&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Animated header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Zulfiqar%20Alam&fontSize=42&fontColor=E6EDF3&fontAlignY=50"
+    alt="Zulfiqar Alam"
+  />
 </p>
 
-<h1 align="center">Software Engineer & Flutter Developer</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Mobile+Application+Engineer;Building+clean+and+useful+mobile+apps;Turning+ideas+into+deployed+products;AI+%26+Computer+Vision+Enthusiast" alt="Typing animation" />
-</p>
+<h2 align="center">Mobile Application Engineer · Flutter Developer</h2>
 
 <p align="center">
-  <a href="https://github.com/ZulfiqarAlam18">
-    <img src="https://img.shields.io/badge/GitHub-ZulfiqarAlam18-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/zulfiqar-alam">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://zulfiqaralam18.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=8BBDD9&center=true&vCenter=true&width=760&lines=Flutter+%26+Dart+Developer;Building+practical+mobile+applications;Focused+on+clean+UI+and+reliable+experiences;Turning+ideas+into+deployed+products"
+    alt="Typing animation"
+  />
 </p>
 
----
-
-## 👋 About Me
-
-I am a Software Engineer and Flutter Developer based in Karachi, Pakistan.
-
-I build cross-platform mobile applications from idea to deployment, with a focus on clean interfaces, reliable application architecture, API integration, and practical user-focused features.
-
-My experience includes mobile application development, cloud services, authentication, offline-first systems, AI-powered features, and production deployment.
-
-- 📱 Building cross-platform applications with Flutter and Dart
-- 🧩 Working with GetX, BLoC, Provider, and clean architecture
-- 🚀 Deploying and maintaining applications on the Google Play Store
-- 🧠 Exploring AI, computer vision, NLP, and LLM-based applications
-- ☁️ Using Firebase, AWS, Supabase, and REST APIs
-- 👥 Co-Lead at Google Developer Student Clubs, MUET
-
----
-
-## 🛠️ Main Skills
-
-### Mobile Application Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, and Android Studio" />
+<p align="center">
+  <a href="https://zulfiqaralam18.github.io">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/zulfiqar-alam">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:zulfiqaralam651@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ZulfiqarAlam18">GitHub</a>
 </p>
 
-Flutter · Dart · GetX · BLoC · Provider · Clean Architecture · Responsive UI · State Management · App Deployment
+<hr>
 
-### Programming and Development
+## About Me
+
+I am a Mobile Application Engineer and Flutter Developer based in Karachi, Pakistan.
+
+I build cross-platform mobile applications with Flutter and Dart, focusing on clean interfaces, reliable application behavior, maintainable code, and smooth user experiences.
+
+My work includes application development, state management, API integration, offline-first functionality, authentication, cloud services, testing, debugging, and Play Store deployment.
+
+- Building mobile applications with Flutter and Dart
+- Working with GetX, BLoC, Provider, and clean architecture
+- Developing responsive and user-focused interfaces
+- Integrating REST APIs and third-party services
+- Working with local storage, authentication, notifications, and cloud services
+- Publishing and maintaining applications on the Google Play Store
+- Interested in AI-powered applications and computer vision
+
+## Core Skills
+
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,git,github" alt="Programming and development tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android Studio" />
 </p>
 
-Object-Oriented Programming · JavaScript · Python · Java · C++ · Git · GitHub · Debugging · Testing
+Flutter · Dart · GetX · BLoC · Provider · Clean Architecture · Responsive UI · State Management
 
-### Cloud and Data
+### Application Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,aws,supabase,postgres,sqlite,mongodb" alt="Cloud and database technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma" alt="Development tools" />
+</p>
+
+REST API Integration · Authentication · Offline-First Applications · Local Storage · Notifications · Debugging · Testing · CI/CD · App Deployment
+
+### Cloud and Data Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,aws,supabase,postgres,sqlite" alt="Cloud and database technologies" />
 </p>
 
 Firebase · AWS S3 · AWS EC2 · AWS Cognito · Supabase · PostgreSQL · SQLite · MongoDB
 
----
+## Selected Projects
 
-## 🚀 Featured Projects
+### LocateLost
 
-### 📍 LocateLost
+A mobile platform for reporting missing children and coordinating reunification efforts.
 
-A missing-child reunification platform developed as a final-year project.
-
-- Designed for parents, finders, and authorities
+- Workflows for parents, finders, and authorities
 - Case reporting, image uploads, and status tracking
-- OpenCV-based facial matching workflow
-- Flutter mobile application with supporting backend services
-- Served as team lead and handled Flutter development, integration, and coordination
+- Facial matching workflow using OpenCV
+- Developed Flutter interfaces and application features
+- Coordinated development as the project team lead
 
-**Technologies:** Flutter, Dart, GetX, Node.js, PostgreSQL, Redis, AWS, OpenCV
+**Technologies:** Flutter, Dart, GetX, REST APIs, PostgreSQL, AWS, OpenCV
 
 ---
 
-### 🎓 Ascender Online
+### Ascender Online
 
-An educational platform for admissions, courses, quizzes, results, and campus exploration.
+An educational mobile application for admissions, courses, quizzes, results, and campus exploration.
 
-- Course delivery with protected video playback
+- Course browsing and protected video playback
 - Quiz, grading, and result-generation features
 - Map-based campus exploration
-- Push notification integration
-- Contributed to application deployment and CI/CD setup
+- Push notifications and local notifications
+- Contributed to deployment and CI/CD setup
 
 **Technologies:** Flutter, Dart, GetX, Firebase, AWS
 
@@ -100,7 +100,7 @@ An educational platform for admissions, courses, quizzes, results, and campus ex
 
 ---
 
-### 📚 IMAT
+### IMAT
 
 An e-learning application for course discovery, paid enrollments, lessons, quizzes, and progress tracking.
 
@@ -108,6 +108,7 @@ An e-learning application for course discovery, paid enrollments, lessons, quizz
 - Secure authentication and token storage
 - Quiz and result workflows
 - Stripe payment integration
+- Responsive Flutter interface development
 - Deployed to the Google Play Store
 
 **Technologies:** Flutter, Dart, GetX, Dio, Stripe, AWS
@@ -116,14 +117,15 @@ An e-learning application for course discovery, paid enrollments, lessons, quizz
 
 ---
 
-### ✅ Routinely
+### Routinely
 
 An offline-first habit tracker and todo manager.
 
 - Habit cycles, streaks, achievements, and analytics
 - Todo categories, priorities, due dates, and reminders
-- CSV/PDF export and JSON backup
-- Local-first data storage and notification workflows
+- CSV and PDF export
+- JSON backup and restore
+- Local notifications and offline data storage
 
 **Technologies:** Flutter, Dart, GetX, SQLite, Local Notifications
 
@@ -131,7 +133,7 @@ An offline-first habit tracker and todo manager.
 
 ---
 
-### 📄 ScanLite
+### ScanLite
 
 A document scanner, OCR, and file-conversion application.
 
@@ -139,7 +141,7 @@ A document scanner, OCR, and file-conversion application.
 - Image enhancement and PDF generation
 - OCR with English and Urdu support
 - PDF, Word, Excel, and PowerPoint conversion
-- Built for practical document-processing workflows
+- Flutter application with a supporting FastAPI service
 
 **Technologies:** Flutter, Dart, Google ML Kit, FastAPI, PyMuPDF, Tesseract
 
@@ -147,83 +149,73 @@ A document scanner, OCR, and file-conversion application.
 
 ---
 
-### 🤖 Personal AI Job Assistant
+### Cropix
+
+A crop-disease detection and agriculture community application.
+
+- Leaf-image disease detection
+- Disease information and treatment recommendations
+- Community posts, comments, likes, and image uploads
+- Flutter-based mobile user experience
+- Integrated machine-learning prediction services
+
+**Technologies:** Flutter, Dart, GetX, FastAPI, TensorFlow, AWS
+
+---
+
+### Personal AI Job Assistant
 
 A context-aware assistant for generating personalized and consistent responses.
 
-- Stores structured and searchable personal context
-- Uses embeddings and relevance-based retrieval
-- Supports retrieval-augmented generation workflows
-- Includes web and mobile interfaces
+- Structured personal context storage
+- Searchable and reusable information
+- Retrieval-based response generation
+- Web and mobile interfaces
+- Designed to reduce repeated manual context sharing
 
 **Technologies:** Flutter, React, Node.js, PostgreSQL, pgvector, LLM APIs
 
----
-
-## ⚙️ Additional Technical Experience
-
-### FastAPI
-
-I use FastAPI for lightweight backend services and machine-learning integrations, including:
-
-- OCR and document-processing APIs
-- Image classification and disease-detection services
-- Multipart file uploads
-- ML model inference endpoints
-- Integration with Flutter applications
-
-### Cloud and Deployment
-
-- AWS EC2 deployment
-- AWS S3 file storage
-- AWS Cognito authentication
-- Firebase notifications
-- GitHub Actions workflows
-- Google Play Store releases
-
----
-
-## 🌱 Leadership and Activities
+## Leadership and Activities
 
 - Co-Lead — Google Developer Student Clubs, MUET
 - President — Delta Tech Info
 - Technical Support Engineer — Elevate Studio
 - IEEE Student Member
 
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZulfiqarAlam18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfiqarAlam18&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZulfiqarAlam18&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfiqarAlam18&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZulfiqarAlam18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=ZulfiqarAlam18&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
----
+## Contact
 
-## 📫 Get In Touch
-
-<p align="center">
-  <a href="mailto:zulfiqaralam651@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/zulfiqar-alam">
-    <img src="https://img.shields.io/badge/LinkedIn-Zulfiqar%20Alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://zulfiqaralam18.github.io">
-    <img src="https://img.shields.io/badge/Website-Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+<p>
+  <a href="https://zulfiqaralam18.github.io">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/zulfiqar-alam">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:zulfiqaralam651@gmail.com">zulfiqaralam651@gmail.com</a>
 </p>
 
-<p align="center">
-  <i>Building useful software, one project at a time.</i>
-</p>
+<hr>
 
-<!-- Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" alt="Animated footer" />
+  <sub>Building practical software with Flutter and Dart.</sub>
 </p>
